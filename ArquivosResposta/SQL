@@ -1,0 +1,12 @@
+INSERT INTO ArquivosResposta(ID_RESPOSTA, ARQUIVO)
+VALUES
+(1, 'Engenharia de software é uma área da computação voltada à especificação, desenvolvimento, manutenção e criação de software, com a aplicação de tecnologias e práticas de gerência de projetos.');
+(2, 'Linguagem de Programação é um método padronizado para comunicar instruções para um computador. É um conjunto de regras sintáticas e semânticas usadas para definir um programa de computador.');
+(3, 'A Arquitetura de Computadores é o projeto conceitual e fundamental da estrutura operacional de um sistema computacional.');
+(4, 'Programação web é o termo utilizado para descrever o desenvolvimento de sites, na Internet ou numa intranet. Este é o profissional que trabalha desenvolvendo websites, podendo ser um Web Designer (Desenvolvedor do Layout), ou Web Developer(Desenvolvedor de sistemas).');
+(5, 'Legislação Aplicada a Informática é uma área da computação voltada as leis que englobam a informática.')
+(6, 'Comunicação e Expressão Conscientizar o aluno da relevância do bom desempenho lingüístico tanto no plano da aquisição de conhecimentos quanto no exercício profissional. ... Promover oportunidades de expressão oral, tendo em vista a clareza e a adequação do aluno na transmissão de suas idéias por meio da fala.');
+(7, 'Fundamentos de Banco de Dados Fundamentos SGBD. Um sistema de gerenciamento de banco de dados é um conjunto de programas de software que permite aos usuários criar, editar, atualizar, armazenar e recuperar dados em tabelas de banco de dados. Dados em um banco de dados podem ser acrescentados, apagados, alterados, classificados usando um SGBD.');
+(8, 'IoT se refere a uma revolução tecnológica que tem como objetivo conectar os itens usados do dia a dia à rede mundial de computadores.');
+(9, 'Língua Brasileira de Sinais, ao contrário do que muitos pensam, é uma língua e possui uma estrutura gramatical própria, ultrapassa as ideias daqueles que acreditam ser apenas gestos ou mímicas, como uma maneira de comunicação entre os deficientes auditivos.');
+(10, 'A cultura DevOps emergiu como uma solução baseada em inovadoras práticas aplicadas nas equipes de desenvolvimento e operações – utilizando-se de ferramentas de automação – .');
