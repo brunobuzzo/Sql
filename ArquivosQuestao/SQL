@@ -1,0 +1,12 @@
+INSERT INTO ArquivosQuestao(ID_QUESTAO, ARQUIVO)
+VALUES
+(1,'O que é Engenharia de Software?');
+(2,'O que é Linguagem de Programação?');
+(3,'O que é Arquitetura de Computadores?');
+(4,'O que é Programação Web?');
+(5,'O que é Legislação Aplicada a Informática?');
+(6,'O que é Comunicação e expressão?');
+(7,'O que é Fundamentos de Banco de Dados?');
+(8,'O que é IoT?');
+(9,'O que é Libras?');
+(10,'O que é Devops?');
